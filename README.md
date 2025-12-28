@@ -23,12 +23,12 @@ More on [woooooons.github.io](https://woooooons.github.io)
 ## License and Certificate
 <!-- start -->
 IT 관련
-* 네트워크 관리사 2급
-* 정보처리기사
 * 컴퓨터 그래픽 운용기능사
-* SQLD
 * 컴퓨터 활용 능력 1급
+* 네트워크 관리사 2급
 * ITQ 엑셀 A 등급
+* 정보처리기사
+* SQLD
 
 기타
 * 한국사 1급
@@ -42,9 +42,10 @@ IT 관련
 ## Awards 
 <!-- start -->
 폴리텍
-* 장관상
 * 프로젝트 실습 작품 전시회 동상
 * 프로젝트 실습 작품 전시회 은상
+* 장관상
+
 <!-- end -->
 
 ---
@@ -59,6 +60,7 @@ IT 관련
 Credits: [woooooons](https://github.com/woooooons)
 
 Last Edited on: 2025-12
+
 
 
 
