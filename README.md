@@ -20,6 +20,35 @@ More on [woooooons.github.io](https://woooooons.github.io)
 
 ---
 
+## License and Certificate
+<!-- start -->
+IT 관련
+* 네트워크 관리사 2급
+* 정보처리기사
+* 컴퓨터 그래픽 운용기능사
+* SQLD
+* 컴퓨터 활용 능력 1급
+* ITQ 엑셀 A 등급
+
+기타
+* 한국사 1급
+* JLPT 1급
+* 한자 3급
+* 1종보통
+<!-- end -->
+
+---
+
+## Awards 
+<!-- start -->
+폴리텍
+* 장관상
+* 프로젝트 실습 작품 전시회 동상
+* 프로젝트 실습 작품 전시회 은상
+<!-- end -->
+
+---
+
 ## Reach Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/woooooons)
@@ -30,5 +59,6 @@ More on [woooooons.github.io](https://woooooons.github.io)
 Credits: [woooooons](https://github.com/woooooons)
 
 Last Edited on: 2025-12
+
 
 
